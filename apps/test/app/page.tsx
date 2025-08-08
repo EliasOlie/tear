@@ -29,7 +29,7 @@ export default function Page() {
               Especially with you.
             </p>
 
-            <p className="ml-6">-Coding Shakespere 2</p>
+            <p className="ml-6">-Coding Shakespere</p>
           </CardContent>
           <CardFooter className="flex justify-end">
             <Button>I love it</Button>
